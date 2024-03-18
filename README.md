@@ -5,15 +5,16 @@ Softwareengineering Medtech Tilg &amp; Wannenmacher
 ## Name und Identifikationsnummer
     UC 1.03 (Alarm bei zu hoher Herzfrequenz)
 ## Beschreibung
-    Während dem Leistungstest wird beim Überschreiten eines Maximalspulses eine Warnung angezeigt, sodass der Test abgebrochen werden kann.
+    Während dem Leistungstest wird beim Überschreiten eines Maximalspulses eine Warnung angezeigt, damit der Test abgebrochen werden kann.
 ## Beteiligte Akteure
-    Diagnostiker:in, Proband:in
+    - Diagnostiker
+    - Proband:in
 ## Status
     In Arbeit
 ## Verwendete Anwendungsfälle
     UC 1.07 (Abbruch des Leistungstests)
 ## Auslöser
-    Überschreiten eines Maximalpulses
+    Überscheiten des Maximalpulses
 ## Vorbedingungen
     UC 1.01 (Probandin anlegen), UC 1.02 (Leistungstest anlegen)
 ## Invarianten
