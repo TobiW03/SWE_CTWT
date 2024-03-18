@@ -7,7 +7,8 @@ Softwareengineering Medtech Tilg &amp; Wannenmacher
 ## Beschreibung
     Es wird bei einer zu hoher Herzfrequenz ein Alarmto ausgegeben.
 ## Beteiligte Akteure
-    text 3
+    - Diagnostiker:in
+    - Proband:in
 ## Status
     text 4
 ## Verwendete Anwendungsfälle
