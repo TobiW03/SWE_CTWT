@@ -3,9 +3,9 @@ Softwareengineering Medtech Tilg &amp; Wannenmacher
 
 # Leistungstest - SWE Repository
 ## Name und Identifikationsnummer
-    text 1
+    UC 1.03 (Alarm bei zu hoher Herzfrequenz)
 ## Beschreibung
-    Es wird bei einer zu hoher Herzfrequenz ein Alarmto ausgegeben.
+    Es wird bei einer zu hoher Herzfrequenz ein Alarmton ausgegeben.
 ## Beteiligte Akteure
     - Diagnostiker:in
     - Proband:in
