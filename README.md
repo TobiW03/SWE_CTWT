@@ -5,7 +5,7 @@ Softwareengineering Medtech Tilg &amp; Wannenmacher
 ## Name und Identifikationsnummer
     text 1
 ## Beschreibung
-    text 2
+    Es wird bei einer zu hoher Herzfrequenz ein Alarmto ausgegeben.
 ## Beteiligte Akteure
     text 3
 ## Status
